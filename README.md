@@ -1,6 +1,8 @@
-# Image-Cropper---Using-React
+Image Cropper - Using React 
 
-✨ A fast and responsive image cropper built using React, TypeScript, Tailwind CSS, and Vite. Upload, crop, and download high-quality images with ease.
+
+A professional image cropping tool built with React, TypeScript, and Tailwind CSS, allowing users to upload, crop, and download images efficiently.
+
 
 Features & Functional Requirements
 =====================================
@@ -41,7 +43,7 @@ Uses modular, reusable components with TypeScript for easy updates.
 🌍 Cross-Browser Compatibility
 Supports modern browsers (Chrome, Firefox, Edge, Safari).
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
 
 How It Works
 ==============
@@ -67,7 +69,7 @@ Uses Tailwind CSS for adaptive layouts across devices.
 5️⃣ Error Handling
 Provides feedback for invalid inputs or actions.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
 
 Tech Stack
 ============
@@ -79,7 +81,7 @@ Tailwind CSS	Utility-first styling for responsiveness
 react-easy-crop	Image cropping functionality
 Vite	Fast build and development
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
 
 Why These Choices?
 ====================
